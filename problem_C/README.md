@@ -14,8 +14,9 @@ use `test_coverage.py` to measure how well LLM-generated tests cover the functio
 ## Setup
 
 ```bash
-pip3 install pytest pytest-cov
+pip3 install pytest pytest-cov flask
 cd week9-presentation/problems/problem_C
+git clone https://github.com/pallets/flask.git
 ```
 ---
 
